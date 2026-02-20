@@ -1,9 +1,4 @@
-Perfect 👍
-Main same content ko proper **GitHub Markdown headings (`#`, `##`, `###`)** ke format me structure kar raha hoon.
 
-You can directly paste this into `README.md`.
-
----
 
 # 🚀 Handling High-Cardinality Categorical Feature (`user_id`)
 
@@ -138,4 +133,5 @@ High-cardinality categorical features require specialized handling.
 Naively applying traditional encoding techniques can severely degrade model performance.
 
 Target encoding provides a balanced solution that preserves signal while maintaining scalability and generalization.
+
 
